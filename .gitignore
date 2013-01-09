@@ -1,2 +1,5 @@
 # mvn files
 target
+
+# eclipse files
+.settings
