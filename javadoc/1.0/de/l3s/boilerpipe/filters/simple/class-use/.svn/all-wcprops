@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/simple/class-use
+END
+SplitParagraphBlocksFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/simple/class-use/SplitParagraphBlocksFilter.html
+END
+MarkEverythingContentFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/simple/class-use/MarkEverythingContentFilter.html
+END
+MinClauseWordsFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/simple/class-use/MinClauseWordsFilter.html
+END
+MinWordsFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/simple/class-use/MinWordsFilter.html
+END
+InvertedFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/simple/class-use/InvertedFilter.html
+END
+BoilerplateBlockFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/simple/class-use/BoilerplateBlockFilter.html
+END

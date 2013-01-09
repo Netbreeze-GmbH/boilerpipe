@@ -1,0 +1,34 @@
+10
+
+dir
+183
+http://boilerpipe.googlecode.com/svn/trunk/boilerpipe-core/src
+http://boilerpipe.googlecode.com/svn
+
+
+
+2012-03-24T17:14:44.004149Z
+183
+christian@kohlschutter.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+04caf554-ba79-11de-b52b-63f31fbada87
+
+demo
+dir
+
+main
+dir
+

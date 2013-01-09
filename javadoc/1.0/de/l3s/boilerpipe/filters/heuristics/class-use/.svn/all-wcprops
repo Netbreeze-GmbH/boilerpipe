@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/heuristics/class-use
+END
+DocumentTitleMatchClassifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/heuristics/class-use/DocumentTitleMatchClassifier.html
+END
+ExpandTitleToContentFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/heuristics/class-use/ExpandTitleToContentFilter.html
+END
+BlockProximityFusion.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/heuristics/class-use/BlockProximityFusion.html
+END
+SimpleBlockFusionProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/heuristics/class-use/SimpleBlockFusionProcessor.html
+END
+KeepLargestBlockFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/heuristics/class-use/KeepLargestBlockFilter.html
+END

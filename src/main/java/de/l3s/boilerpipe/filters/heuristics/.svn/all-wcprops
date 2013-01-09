@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/183/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics
+END
+KeepLargestBlockFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/181/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/KeepLargestBlockFilter.java
+END
+ArticleMetadataFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/150/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/ArticleMetadataFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/package.html
+END
+ContentFusion.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/150/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/ContentFusion.java
+END
+AddPrecedingLabelsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/150/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/AddPrecedingLabelsFilter.java
+END
+DocumentTitleMatchClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/179/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/DocumentTitleMatchClassifier.java
+END
+LabelFusion.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/163/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/LabelFusion.java
+END
+ExpandTitleToContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/101/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/ExpandTitleToContentFilter.java
+END
+TrailingHeadlineToBoilerplateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/183/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/TrailingHeadlineToBoilerplateFilter.java
+END
+BlockProximityFusion.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/150/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/BlockProximityFusion.java
+END
+LargeBlockSameTagLevelToContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/183/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/LargeBlockSameTagLevelToContentFilter.java
+END
+SimpleBlockFusionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/SimpleBlockFusionProcessor.java
+END
+ListAtEndFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/183/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/heuristics/ListAtEndFilter.java
+END

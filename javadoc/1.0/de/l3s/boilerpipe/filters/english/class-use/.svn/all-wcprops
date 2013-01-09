@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/english/class-use
+END
+NumWordsRulesClassifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/english/class-use/NumWordsRulesClassifier.html
+END
+MinFulltextWordsFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/english/class-use/MinFulltextWordsFilter.html
+END
+KeepLargestFulltextBlockFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/english/class-use/KeepLargestFulltextBlockFilter.html
+END
+DensityRulesClassifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/english/class-use/DensityRulesClassifier.html
+END
+IgnoreBlocksAfterContentFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/english/class-use/IgnoreBlocksAfterContentFilter.html
+END
+TerminatingBlocksFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/filters/english/class-use/TerminatingBlocksFinder.html
+END

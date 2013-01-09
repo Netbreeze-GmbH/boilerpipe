@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/182/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple
+END
+MinClauseWordsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/MinClauseWordsFilter.java
+END
+MinWordsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/MinWordsFilter.java
+END
+InvertedFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/InvertedFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/package.html
+END
+BoilerplateBlockFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/168/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/BoilerplateBlockFilter.java
+END
+LabelToContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/101/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/LabelToContentFilter.java
+END
+SurroundingToContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/150/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/SurroundingToContentFilter.java
+END
+SplitParagraphBlocksFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/SplitParagraphBlocksFilter.java
+END
+LabelToBoilerplateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/150/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/LabelToBoilerplateFilter.java
+END
+MarkEverythingContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/MarkEverythingContentFilter.java
+END
+MarkEverythingBoilerplateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/182/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/filters/simple/MarkEverythingBoilerplateFilter.java
+END

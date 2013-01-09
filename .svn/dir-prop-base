@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 20
+build
+
+dist
+
+target
+
+END

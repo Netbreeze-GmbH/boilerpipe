@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/183/trunk/boilerpipe-core
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/150/trunk/boilerpipe-core/LICENSE.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/150/trunk/boilerpipe-core/build.xml
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/150/trunk/boilerpipe-core/NOTICE.txt
+END
+boilerpipe.pom
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/150/trunk/boilerpipe-core/boilerpipe.pom
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9/trunk/boilerpipe-core/.project
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/70/trunk/boilerpipe-core/INSTALL.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/150/trunk/boilerpipe-core/.classpath
+END

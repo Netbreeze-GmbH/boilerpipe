@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/180/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/labels
+END
+DefaultLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/180/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/labels/DefaultLabels.java
+END
+LabelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/150/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/labels/LabelAction.java
+END
+ConditionalLabelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101/trunk/boilerpipe-core/src/main/de/l3s/boilerpipe/labels/ConditionalLabelAction.java
+END

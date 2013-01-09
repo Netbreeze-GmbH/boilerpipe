@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/extractors/class-use
+END
+LargestContentExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/extractors/class-use/LargestContentExtractor.html
+END
+ExtractorBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/extractors/class-use/ExtractorBase.html
+END
+DefaultExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/extractors/class-use/DefaultExtractor.html
+END
+KeepEverythingWithMinKWordsExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/extractors/class-use/KeepEverythingWithMinKWordsExtractor.html
+END
+NumWordsRulesExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/extractors/class-use/NumWordsRulesExtractor.html
+END
+ArticleExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/extractors/class-use/ArticleExtractor.html
+END
+KeepEverythingExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/extractors/class-use/KeepEverythingExtractor.html
+END
+ArticleSentencesExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/56/trunk/boilerpipe-core/javadoc/1.0/de/l3s/boilerpipe/extractors/class-use/ArticleSentencesExtractor.html
+END
