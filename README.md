@@ -1,12 +1,17 @@
-#Changes in this Version of Boilerpipe#
+#boilerpipe 1.2.1
+
+##Changes in this Version of Boilerpipe#
 This is an extended version of [Boilerpipe 1.2.0](http://code.google.com/p/boilerpipe/).
 
-This are the new features:
+###New features:
 
 * Media extraction (Youtube videos, Vimeo videos and Images) within an article
 * Extract an article with its HTML structure
 
-Classes added:
+### Changes
+* mavenized
+
+#### Classes added:
 
 * de.l3s.boilerpipe.document.Media
 * de.l3s.boilerpipe.document.Video
