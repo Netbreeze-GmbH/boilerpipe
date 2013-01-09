@@ -1,7 +1,8 @@
 #boilerpipe 1.2.1
 
+
 ##Changes in this Version of Boilerpipe#
-This is an extended version of [Boilerpipe 1.2.0](http://code.google.com/p/boilerpipe/).
+This is an extended version of [Boilerpipe 1.2.0 on google code](http://code.google.com/p/boilerpipe/).
 
 ###New features:
 
