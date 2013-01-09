@@ -2,7 +2,7 @@
 
 
 ##Changes in this Version of Boilerpipe#
-This is an extended version of [Boilerpipe 1.2.0 on google code](http://code.google.com/p/boilerpipe/).
+This is an extended version of [Boilerpipe 1.2.0 on Google Code](http://code.google.com/p/boilerpipe/).
 
 ###New features:
 
@@ -11,6 +11,9 @@ This is an extended version of [Boilerpipe 1.2.0 on google code](http://code.goo
  
 ### Example
 * [MediaExtractorDemo](https://github.com/Netbreeze-GmbH/boilerpipe/blob/master/src/main/demo/de/l3s/boilerpipe/demo/MediaExtractorDemo.java)
+
+### License
+[Apache License 2.0] (http://www.apache.org/licenses/LICENSE-2.0)
 
 ### Changes
 * mavenized

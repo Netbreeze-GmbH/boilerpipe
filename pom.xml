@@ -2,16 +2,40 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.l3s.boilerpipe</groupId>
   <artifactId>boilerpipe-core</artifactId>
-  <version>1.2.1-SNAPSHOT</version>
-  <name>boilerpipe - fork of version 1.2.0</name>
-  <description>Boilerplate Removal and Fulltext Extraction from HTML pages</description>
+  <version>1.2.1</version>
+  <name>boilerpipe</name>
+  <description>Boilerplate Removal and Fulltext Extraction from HTML pages  - fork of version 1.2.0</description>
+  <url>https://github.com/Netbreeze-GmbH/boilerpipe</url>
+  <packaging>jar</packaging>
+  <scm>
+  	<url>scm:git:https://github.com/Netbreeze-GmbH/boilerpipe</url>
+  	<connection>scm:git:https://github.com/Netbreeze-GmbH/boilerpipe.git</connection>
+ </scm>
   <licenses>
   	<license>
   		<name>Apache License 2.0</name>
   		<distribution>repo</distribution>
-  		<url>http://www.apache.org/licenses/LICENSE-2.0</url>
+  		<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
   	</license>
   </licenses>
+  <developers>
+   <developer>
+  	 <id>1</id>
+  	 <name>Christian Kohlschütter</name>
+  	 <url>http://www.kohlschutter.com</url>
+  	 <roles>
+  	 	<role>project initiator</role>
+  	 </roles>
+   </developer>
+   <developer>
+  	 <id>2</id>
+  	 <name>Manuel Codiga</name>
+  	 <email>manuel.codiga@gmail.com</email>
+  	 <roles>
+  	 	<role>contributor</role>
+  	 </roles>
+   </developer>
+  </developers>
   <dependencies>
   	<dependency>
   		<groupId>net.sourceforge.nekohtml</groupId>
@@ -29,4 +53,8 @@
   		<version>2.9.1</version>
   	</dependency>
   </dependencies>
+  <issueManagement>
+  	<url>https://github.com/Netbreeze-GmbH/boilerpipe/issues</url>
+  	<system>Github</system>
+  </issueManagement>
 </project>
