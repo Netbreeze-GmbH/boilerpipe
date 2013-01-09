@@ -3,3 +3,5 @@ target
 
 # eclipse files
 .settings
+.classpath
+.project
