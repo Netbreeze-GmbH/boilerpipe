@@ -8,6 +8,9 @@ This is an extended version of [Boilerpipe 1.2.0 on google code](http://code.goo
 
 * Media extraction (Youtube videos, Vimeo videos and Images) within an article
 * Extract an article with its HTML structure
+ 
+### Example
+* [MediaExtractorDemo](https://github.com/Netbreeze-GmbH/boilerpipe/blob/master/src/main/demo/de/l3s/boilerpipe/demo/MediaExtractorDemo.java)
 
 ### Changes
 * mavenized
