@@ -11,6 +11,7 @@ This is an extended version of [Boilerpipe 1.2.0 on Google Code](http://code.goo
  
 ### Example
 * [MediaExtractorDemo](https://github.com/Netbreeze-GmbH/boilerpipe/blob/master/src/main/demo/de/l3s/boilerpipe/demo/MediaExtractorDemo.java)
+* [HtmlArticleExtractorDemo](https://github.com/Netbreeze-GmbH/boilerpipe/blob/master/src/main/demo/de/l3s/boilerpipe/demo/HtmlArticleExtractorDemo.java)
 
 ### License
 [Apache License 2.0] (http://www.apache.org/licenses/LICENSE-2.0)
