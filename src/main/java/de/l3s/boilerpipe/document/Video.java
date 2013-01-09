@@ -20,7 +20,7 @@
 package de.l3s.boilerpipe.document;
 
 /**
- * Represents an video resource that is contained in the document.
+ * Represents an video resource which is contained in the document.
  *
  *  
  * @author Manuel Codiga

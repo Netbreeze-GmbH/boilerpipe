@@ -45,7 +45,7 @@ import de.l3s.boilerpipe.sax.HTMLDocument;
 import de.l3s.boilerpipe.sax.HTMLHighlighter;
 
 /**
- * an Extractor for extracting an article from an document with his basic HTML structure.
+ * an Extractor for extracting an article from an document with its basic HTML structure.
  * 
  * @author manuel.codiga@gmail.com
  */
@@ -64,7 +64,7 @@ public class HtmlArticleExtractor {
 
 
 	/**
-	 * returns the article from an document with his basic html structure. 
+	 * returns the article from an document with its basic html structure. 
 	 * 
 	 * @param HTMLDocument
 	 * @param URI the uri from the document for resolving the relative anchors in the document to absolute anchors

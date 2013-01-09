@@ -1,10 +1,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>de.l3s</groupId>
-  <artifactId>boilerpipe</artifactId>
+  <groupId>de.l3s.boilerpipe</groupId>
+  <artifactId>boilerpipe-core</artifactId>
   <version>1.2.1-SNAPSHOT</version>
-  <name>boilerpipe</name>
+  <name>boilerpipe - fork of version 1.2.0</name>
   <description>Boilerplate Removal and Fulltext Extraction from HTML pages</description>
+  <licenses>
+  	<license>
+  		<name>Apache License 2.0</name>
+  		<distribution>repo</distribution>
+  		<url>http://www.apache.org/licenses/LICENSE-2.0</url>
+  	</license>
+  </licenses>
   <dependencies>
   	<dependency>
   		<groupId>net.sourceforge.nekohtml</groupId>
