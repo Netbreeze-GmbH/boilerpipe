@@ -19,6 +19,13 @@ This is an extended version of [Boilerpipe 1.2.0 on Google Code](http://code.goo
 ### Changes
 * mavenized
 
+------------------
+     <dependency>
+      <groupId>de.l3s.boilerpipe</groupId>
+      <artifactId>boilerpipe-core</artifactId>
+      <version>1.2.1</version>
+    </dependency>
+------------------
 #### Classes added:
 
 * de.l3s.boilerpipe.document.Media
