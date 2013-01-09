@@ -72,7 +72,11 @@ public class HtmlArticleExtractor {
 	public static HtmlArticleExtractor getInstance() {
 		return INSTANCE;
 	}
-
+	
+	/**
+	 * returns the article from an url with its basic html structure. 
+	 * 
+	 */
 	public String process(final BoilerpipeExtractor extractor, final URL url)
 			throws IOException, BoilerpipeProcessingException, SAXException, URISyntaxException {
 		final HTMLDocument htmlDoc = HTMLFetcher.fetch(url);
