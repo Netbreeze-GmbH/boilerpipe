@@ -1,2 +1,8 @@
 # mvn files
 target
+
+# eclipse files
+.settings
+.classpath
+.project
+bin/
