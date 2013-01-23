@@ -1,4 +1,4 @@
-#boilerpipe 1.2.1
+#boilerpipe 1.2.2
 
 
 ##Changes in this Version of Boilerpipe#
@@ -23,7 +23,7 @@ This is an extended version of [Boilerpipe 1.2.0 on Google Code](http://code.goo
      <dependency>
       <groupId>de.l3s.boilerpipe</groupId>
       <artifactId>boilerpipe-core</artifactId>
-      <version>1.2.1</version>
+      <version>1.2.2</version>
     </dependency>
 ------------------
 #### Classes added:
