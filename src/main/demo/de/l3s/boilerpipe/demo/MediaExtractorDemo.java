@@ -16,7 +16,7 @@ import de.l3s.boilerpipe.sax.MediaExtractor;
 public final class MediaExtractorDemo {
 	public static void main(String[] args) throws Exception {
 		URL url = new URL(
-				"http://www.spiegel.de/wissenschaft/natur/0,1518,789176,00.html");
+				"http://www.pbs.org/mediashift/2013/01/usc-annenberg-pushes-innovation-lab-experimental-school-1-year-masters018.html");
 		final BoilerpipeExtractor extractor = CommonExtractors.ARTICLE_EXTRACTOR;
 
 		final MediaExtractor ie = MediaExtractor.INSTANCE;
