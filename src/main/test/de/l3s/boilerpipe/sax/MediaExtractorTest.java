@@ -28,7 +28,6 @@ public class MediaExtractorTest {
 			final MediaExtractor ie = MediaExtractor.INSTANCE;
 			
 			urls = ie.process(url, extractor);
-			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
