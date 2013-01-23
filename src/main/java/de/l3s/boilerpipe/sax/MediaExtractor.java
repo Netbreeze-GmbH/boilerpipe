@@ -230,9 +230,10 @@ public final class MediaExtractor {
 										String path = url.getPath();
 										String[] pathParts = path.split("/");
 										originUrl = "http://www.youtube.com/watch?v="+pathParts[pathParts.length-1];
+										linksBuffer.add(new YoutubeVideo(originUrl,src));
 									} catch (MalformedURLException e) {
 									}
-                                    linksBuffer.add(new YoutubeVideo(originUrl,src));
+                                    
                                 }
 
                                 if(src != null && src.length() > 0 && src.contains("player.vimeo.com")) {
@@ -242,9 +243,10 @@ public final class MediaExtractor {
 										String path = url.getPath();
 										String[] pathParts = path.split("/");
 										originUrl = "http://vimeo.com/"+pathParts[pathParts.length-1];
+										linksBuffer.add(new VimeoVideo(originUrl,src));
 									} catch (MalformedURLException e) {
 									}
-                                    linksBuffer.add(new VimeoVideo(originUrl,src));
+                                    
                                 }
                             }
 
