@@ -21,6 +21,8 @@ package de.l3s.boilerpipe.sax;
 import java.io.IOException;
 import java.io.StringReader;
 import java.net.MalformedURLException;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.BitSet;
@@ -253,9 +255,13 @@ public final class MediaExtractor {
 
                             if(inHighlight && "IMG".equalsIgnoreCase(localName)) {
                                 String src = atts.getValue("src");
-                                if(src != null && src.length() > 0) {
-                                	linksBuffer.add(new Image(src, atts.getValue("width"), atts.getValue("height"), atts.getValue("alt")));
-                                }
+                                try {
+									URI image = new URI(src);
+									if(src != null && src.length() > 0) {
+	                                	linksBuffer.add(new Image(src, atts.getValue("width"), atts.getValue("height"), atts.getValue("alt")));
+	                                }
+								} catch (URISyntaxException e) {
+								}
                             }
                         }
                     } finally {

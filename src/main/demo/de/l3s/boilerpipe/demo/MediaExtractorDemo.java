@@ -14,6 +14,9 @@ import de.l3s.boilerpipe.sax.MediaExtractor;
  * @author manuel.codiga@gmail.com
  */
 public final class MediaExtractorDemo {
+	
+	public MediaExtractorDemo() {}
+	
 	public static void main(String[] args) throws Exception {
 		URL url = new URL(
 				"http://www.pbs.org/mediashift/2013/01/usc-annenberg-pushes-innovation-lab-experimental-school-1-year-masters018.html");
