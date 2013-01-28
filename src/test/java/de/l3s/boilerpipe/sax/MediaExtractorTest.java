@@ -55,7 +55,6 @@ public class MediaExtractorTest {
 				} else if (m instanceof Image) {
 					try {
 						URI image = new URI(((Image) m).getSrc());
-						assertTrue(image.isAbsolute());
 					} catch (Exception e) {
 						fail("no valid url");
 					}

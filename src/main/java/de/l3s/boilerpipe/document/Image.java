@@ -35,7 +35,13 @@ public class Image extends Media implements Comparable<Image> {
 			this.area = -1;
 		}
 	}
-
+	
+	/**
+	 * gets the src attribut from the image tag in the html source. 
+	 * it's not everytime an absolute path!
+	 * 
+	 * @return
+	 */
 	public String getSrc() {
 		return src;
 	}
