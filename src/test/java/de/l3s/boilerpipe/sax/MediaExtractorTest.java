@@ -43,6 +43,7 @@ public class MediaExtractorTest {
 				if (m instanceof Video) {
 					try {
 						URI video = new URI(((Video) m).getOriginUrl());
+						URI videoEmbed = new URI(((Video) m).getEmbedUrl());
 					} catch (Exception e) {
 						fail("no valid url");
 					}
