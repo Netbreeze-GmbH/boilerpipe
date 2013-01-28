@@ -1,5 +1,6 @@
 package de.l3s.boilerpipe.sax;
 
+import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 
 import java.io.BufferedReader;
@@ -44,12 +45,17 @@ public class MediaExtractorTest {
 					try {
 						URI video = new URI(((Video) m).getOriginUrl());
 						URI videoEmbed = new URI(((Video) m).getEmbedUrl());
+						
+						assertTrue(video.isAbsolute());
+						assertTrue(videoEmbed.isAbsolute());
+						
 					} catch (Exception e) {
 						fail("no valid url");
 					}
 				} else if (m instanceof Image) {
 					try {
 						URI image = new URI(((Image) m).getSrc());
+						assertTrue(image.isAbsolute());
 					} catch (Exception e) {
 						fail("no valid url");
 					}
