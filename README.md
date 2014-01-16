@@ -26,6 +26,9 @@ This is an extended version of [Boilerpipe 1.2.0 on Google Code](http://code.goo
       <version>1.2.2</version>
     </dependency>
 ------------------
+
+(Central maven repository seems to have it under: de.l3s.boilerpipe:boilerpipe:1.1.0)
+
 #### Classes added:
 
 * de.l3s.boilerpipe.document.Media
