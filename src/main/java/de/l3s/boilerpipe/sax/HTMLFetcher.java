@@ -39,7 +39,7 @@ public class HTMLFetcher {
 			throw new IOException("Unsupported content type: "+ct);
 		}
 
-		Charset cs = Charset.forName("Cp1252");
+		Charset cs = Charset.forName("UTF-8");
 		if (ct != null) {
 			Matcher m = PAT_CHARSET.matcher(ct);
 			if (m.find()) {
