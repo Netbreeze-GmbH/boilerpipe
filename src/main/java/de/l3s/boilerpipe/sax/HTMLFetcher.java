@@ -32,6 +32,7 @@ public class HTMLFetcher {
 	 */
 	public static HTMLDocument fetch(final URL url) throws IOException {
 		final URLConnection conn = url.openConnection();
+		conn.addRequestProperty("User-Agent", "Mozilla/4.0");
 		final String ct = conn.getContentType();
 
 		if (ct == null
