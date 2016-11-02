@@ -1,5 +1,9 @@
 #boilerpipe 1.2.2
 
+## Notes 
+This repository is not activly maintained anymore. 
+
+There is a fork of this repo from [vanduynslagerp](https://github.com/vanduynslagerp/boilerpipe) who did some repackaging and uploaded the artifact to the maven repository. 
 
 ##Changes in this Version of Boilerpipe#
 This is an extended version of [Boilerpipe 1.2.0 on Google Code](http://code.google.com/p/boilerpipe/).
