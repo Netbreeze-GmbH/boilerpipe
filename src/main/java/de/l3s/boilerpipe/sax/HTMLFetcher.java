@@ -32,6 +32,7 @@ public class HTMLFetcher {
 	 */
 	public static HTMLDocument fetch(final URL url) throws IOException {
 		final URLConnection conn = url.openConnection();
+		conn.addRequestProperty("User-Agent", "Mozilla/4.0");
 		final String ct = conn.getContentType();
 
 		if (ct == null
@@ -39,7 +40,7 @@ public class HTMLFetcher {
 			throw new IOException("Unsupported content type: "+ct);
 		}
 
-		Charset cs = Charset.forName("Cp1252");
+		Charset cs = Charset.forName("UTF-8");
 		if (ct != null) {
 			Matcher m = PAT_CHARSET.matcher(ct);
 			if (m.find()) {
